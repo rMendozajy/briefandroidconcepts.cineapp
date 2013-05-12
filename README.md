@@ -15,7 +15,7 @@ Build and Run
 
 When you run for first time the project (MainActivity.java),
 note that after it, you will need to comment the lines 49 and from 59 to 65 at MainActivity.java.
-This is because we want to avoid database problems when you run the application a second time.
+This is because i want to avoid database problems when you run the application a second time.
 
 Notes
 ============================
