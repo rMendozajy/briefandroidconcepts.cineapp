@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Array of puppy resource IDs -->
+    <string-array name="puppies_array">
+        <item>@drawable/asumare</item>
+        <item>@drawable/ff6</item>
+        <item>@drawable/caidamortal</item>
+        <item>@drawable/gijoe</item>
+        <item>@drawable/losmiserables</item>
+        <item>@drawable/perfume</item>
+    </string-array>
+
+</resources>
