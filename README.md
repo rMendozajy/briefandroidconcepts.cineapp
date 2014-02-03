@@ -26,5 +26,5 @@ implemented in their respective methods.
 Contributing
 ============================
 
-Pull requests are welcome.
+Pull requests are welcome...
 
